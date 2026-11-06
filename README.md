@@ -20,4 +20,4 @@ I'm a 3rd-year Computer Science student at Guilin University of Electronic Techn
 
 ### 📫 Connect With Me
 - **Location:** Guilin, China | Casablanca, Morocco
-- **LinkedIn:** [Lseq l-lien dyal LinkedIn dyalk hna]
+- **LinkedIn:** 
